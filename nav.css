@@ -14,25 +14,26 @@ body {
 .Nav {
     background-color: grey;
     width: 100%;
-    height: 50px;
+    height: 96px;
 }
 
 .list ul {
     list-style: none;
-    padding: 0;
+    padding: 5px;
     margin: 0;
     /* overflow: hidden; */
 }
 
 .list ul li {
     display: inline;
-    padding: 10px;
+    padding: 30px;
     float: left;
 }
 
 .list .contact {
     background-color: black;
     text-decoration: underline;
+    border-radius: 56px;
 }
 
 li a {
